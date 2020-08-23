@@ -10,7 +10,27 @@
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
 
-<h2>🌐 Find me here around web: ...</h2>
+## 🛠 Technology Stack
+### Languages:
+<p>
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="70px" height="70px" />&ensp;
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="70px" height="70px" />&emsp; 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="70px" height="70px" />&emsp;
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="70px" height="70px" />&emsp;
+</p>
+
+### Frameworks:
+<p>
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="75" height="75" />&emsp;
+</p>
+
+### Databases:
+<p>
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" width="75" height="75" />&emsp;
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="75" height="75" />&emsp;
+</p>	
+
+## 🌐 Find me here around web: ...
 <p align="center">	
 	<a href="https://www.facebook.com/gaurav.ag05">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
