@@ -10,26 +10,6 @@
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
 
-## 🛠 Technology Stack
-### Languages:
-<p>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="70px" height="70px" />&ensp;
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="70px" height="70px" />&emsp; 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="70px" height="70px" />&emsp;
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="70px" height="70px" />&emsp;
-</p>
-
-### Frameworks:
-<p>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="75" height="75" />&emsp;
-</p>
-
-### Databases:
-<p>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" width="75" height="75" />&emsp;
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="75" height="75" />&emsp;
-</p>	
-
 ## 🌐 Find me here around web: ...
 <p align="center">	
 	<a href="https://www.facebook.com/gaurav.ag05">
@@ -53,9 +33,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... C#
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
