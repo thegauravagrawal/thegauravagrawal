@@ -10,7 +10,7 @@
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
 
-## 🌐 Find me here around web: ...
+## 🌐 Connect with me: ...
 <p align="center">	
 	<a href="https://www.facebook.com/gaurav.ag05">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
