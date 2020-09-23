@@ -10,6 +10,10 @@
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
 
+- 🔭 I’m currently working on ... CMD OS
+- 🌱 I’m currently learning ... C#, Python, Shell
+- 😄 Pronouns: ... he/him/his
+
 ## 🌐 Connect with me: ...
 <p align="center">	
 	<a href="https://www.facebook.com/gaurav.ag05">
@@ -27,17 +31,12 @@
 </p>
 
 
+
+
 <!--
-**thegauravagrawal/thegauravagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
