@@ -4,8 +4,8 @@
 	<a href="mailto:gauravag.1005@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-gauravag.1005%40gmail.com-d14836?style=social&logo=gmail" />
 	</a>&nbsp;
-	<a href="https://wa.me/917000255524">
-		<img src="https://img.shields.io/badge/WhatsApp-%2B91--7000255524-25d366?style=social&logo=whatsapp" />
+	<a href="https://wa.me/917477036124">
+		<img src="https://img.shields.io/badge/WhatsApp-%2B91--7477036124-25d366?style=social&logo=whatsapp" />
 	</a>
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
