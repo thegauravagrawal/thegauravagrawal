@@ -19,13 +19,13 @@
 	<a href="https://www.facebook.com/gaurav.ag05">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.instagram.com/thewildlibran">
+	<a href="https://www.instagram.com/__gauravagrawal">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/gaurav-ag10">
+	<a href="https://www.linkedin.com/in/--gauravagrawal">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/gaurav_ag10">
+	<a href="https://twitter.com/__gauravagrwal">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
