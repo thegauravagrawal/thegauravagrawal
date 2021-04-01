@@ -10,8 +10,8 @@
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
 
-- 🔭 I’m currently working on ... CMD OS
-- 🌱 I’m currently learning ... C#, Python, Shell
+- 🔭 I’m currently working on ... Blog Web Application in ASP.NET Core
+- 🌱 I’m currently learning ... C#, ASP.NET Core
 - 😄 Pronouns: ... he/him/his
 
 ## 🌐 Connect with me: ...
@@ -29,7 +29,13 @@
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravagrwal&hide=html&layout=compact&theme=tokyonight" /></td>
+  </tr>  
+</table>
+</center>
 
 
 
@@ -37,6 +43,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
