@@ -29,19 +29,5 @@
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravagrwal&hide=html&layout=compact&theme=tokyonight" /></td>
-  </tr>  
-</table>
-</center>
 
-
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravagrwal&hide=html&layout=compact&theme=tokyonight" />
