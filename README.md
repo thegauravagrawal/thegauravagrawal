@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Hello World 🌏 👋
+# 👨🏻‍💻 Hello, World! 🌏 👋
 
 <p> 
 	<a href="mailto:gauravag.1005@gmail.com">
@@ -6,13 +6,23 @@
 	</a>&nbsp;
 	<a href="https://wa.me/917477036124">
 		<img src="https://img.shields.io/badge/WhatsApp-%2B91--7477036124-25d366?style=social&logo=whatsapp" />
-	</a>
+	</a>&nbsp;
 	<img src="https://komarev.com/ghpvc/?username=thegauravagrawal&color=brightgreen" align="right"/>
 </p>
 
 - 🔭 I’m currently working on ... Blog Web Application in ASP.NET Core
 - 🌱 I’m currently learning ... C#, ASP.NET Core
 - 😄 Pronouns: ... he/him/his
+
+## Tech Stack:
+<p>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"/>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+</p> 
 
 ## 🌐 Connect with me: ...
 <p align="center">	
