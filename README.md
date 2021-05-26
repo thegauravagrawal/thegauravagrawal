@@ -15,16 +15,16 @@
 - 😄 Pronouns: ... he/him/his
 
 ## Tech Stack:
-<p>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
-	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<p align="center">
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 </p> 
 
 ## 🌐 Connect with me: ...
